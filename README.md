@@ -73,8 +73,7 @@ Although I’m a student, I:
 ---
 
 ### 📚 [Cybersecurity-Blogs](https://github.com/Tejaswini4119/Cybersecurity-Blogs)
-
-A collection of hands-on web security walkthroughs, featuring:
+> A collection of hands-on web security walkthroughs, featuring:
 
 - ✅ SQL Injection Labs (Solved & Explained)
 - 💡 Real-world exploit breakdowns
