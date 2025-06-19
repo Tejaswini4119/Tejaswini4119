@@ -3,6 +3,7 @@
 > “Still a student — but every night I stay up building and defending is a step closer to mastering both.”
 
 *Hi! I’m **Tejaswini** — a Cybersecurity student with a deep passion for defensive security and user-safety application engineering (coined something new?? lol.)*
+
 *While most of the people around me are solving assignments, I’m co-leading projects with few of my amazing peers, writing real-world detection logic, simple ui, and building secure platforms and experimenting and brainstorming every late night idea i get. — because I believe in growing **by doing**.*
 I'm not waiting for a degree to make an impact. I'm already building the future I want (hoping).
 
