@@ -1,4 +1,4 @@
-# 👩‍💻 Tejaswini Kandukoori — Blue Team Enthusiast | Frontend Developer | Vision-Driven Student
+## Hey Peopleee!! Welcome to my Profile.
 
 > “Still a student — but every night I stay up building and defending is a step closer to mastering both.”
 
