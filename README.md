@@ -35,7 +35,7 @@ Although I’m a student, I:
 - Debugging CSS for responsiveness  
 - Studying log patterns to detect phishing  
 - Writing labs on SQLi, XSS, and more  
-- Or staying up late fixing the smallest UI misalignment — because **it matters.**
+- Or staying up late fixing the smallest UI misalignment — because **it matters!.**
 
 ---
 
