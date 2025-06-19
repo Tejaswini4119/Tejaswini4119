@@ -18,7 +18,7 @@ I'm not waiting for a degree to make an impact. I'm already building the future 
 - 🔗 Integrated APIs and handled error, loading, and user feedback scenarios
 - 🔍 Worked with a security-oriented mindset to ensure safe and reliable user flows
 
-👨‍💻 *Co-built with [Pardhu Varma](https://github.com/zenrage2025) — backend development & security mastermind.*
+👨‍💻 *Co-built with [Pardhu Varma](https://github.com/PardhuSreeRushiVarma20060119) — backend development & security mastermind.*
 
 ---
 
