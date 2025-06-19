@@ -41,13 +41,18 @@ Although I’m a student, I:
 
 ## 🛠️ Tech & Security Stack
 
-### 🔧 Development
+### 🔧 Development :
 - React.js (Vite)
 - Tailwind CSS
 - Axios, React Router
 - Git, GitHub
 
-### 🔐 Blue Teaming
+### 💻 Programming Languages : 
+- Python
+- Java
+- Javascript
+
+### 🔐 Blue Teaming :
 - Log Analysis (HTTP/DNS)
 - Splunk, Elastic, Sysmon, Zeek
 - TryHackMe & PortSwigger Labs
