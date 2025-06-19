@@ -11,6 +11,7 @@ I'm not waiting for a degree to make an impact. I'm already building the future 
 > **A secure phishing URL analyzer — fast, clean, and user-protective.**
 
 > 🛡️ **Vision**: Help users test suspicious URLs safely through a secure and minimal web interface.
+
 > 👩‍🔧 **Role**: **Project Lead & Frontend Developer**
 
 - 💡 Defined the initial project scope and feature set
