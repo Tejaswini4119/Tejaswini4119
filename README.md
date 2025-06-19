@@ -92,7 +92,7 @@ Although I’m a student, I:
 
 ## 📫 Connect with Me
 
-- 📬 `[Linkedin](https://www.linkedin.com/in/kandukoori-tejaswini-765774289/)`
+- 📬 ![Linkedin](https://www.linkedin.com/in/kandukoori-tejaswini-765774289/)
 - 🤝 Open to collaboration in **frontend dev**, **blue team labs**, or **student-led cybersecurity projects**
 
 ---
