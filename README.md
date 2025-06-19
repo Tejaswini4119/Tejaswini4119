@@ -7,8 +7,7 @@ I'm not waiting for a degree to make an impact. I'm already building the future 
 
 ---
 
-## 🚀 My Flagship Project: 
-[PhishVault](https://github.com/Tejaswini4119/PhishVault)
+## 🚀 My Flagship Project: ![PhishVault](https://github.com/Tejaswini4119/PhishVault)
 
 > **A secure phishing URL analyzer — fast, clean, and user-protective.**
 🛡️ **Vision**: Help users test suspicious URLs safely through a secure and minimal web interface.
