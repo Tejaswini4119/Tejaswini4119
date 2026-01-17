@@ -40,8 +40,8 @@ Cybersecurity Enthusiast and a developer engineering defensive architectures and
 | Domain | Skills & Tools |
 | :--- | :--- |
 | **Defensive Security** | SOC Operations, Phishing Defense, Incident Response, Threat Triage, CTI, VAPT |
-| **Analysis** | Malware Analysis & Reverse Engineering, Log Analysis (Splunk, Elastic, Sysmon, Zeek) |
-| **Development** | React.js, TypeScript, Python, DSL, PostgreSQL, Docker, Cloud Security |
+| **Analysis** | Malware Analysis, Log Analysis (Splunk, Elastic, Sysmon, Zeek) |
+| **Development** | React.js, TypeScript, Python, DSL, PostgreSQL, Docker |
 | **Methodologies** | MITRE ATT&CK, Neuro-Semantic Analysis, PII Fusion, Secure Design Principles |
 
 ---
