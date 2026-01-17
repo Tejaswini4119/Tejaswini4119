@@ -1,100 +1,67 @@
-## Hey Peopleee!! Welcome to my Profile.
+# Kandukoori Tejaswini
 
-*Hi! I’m **Tejaswini** — a Cybersecurity student with a deep passion for defensive security and user-safety application engineering (coined something new?? lol.)*
-
-> *While most of the people around me are solving assignments, I’m co-leading projects with few of my amazing peers, writing real-world detection logic, simple ui, and building secure platforms and experimenting and brainstorming every late night idea i get. — because I believe in growing **by doing**.*
-I'm not waiting for a degree to make an impact. I'm already building the future I want (hoping).
+### Cybersecurity Student | Defensive Security, SOC & Threat Intelligence | CPPS
 
 ---
 
-## 🚀 My Flagship Project: [PhishVault](https://github.com/Tejaswini4119/PhishVault)
-> **A secure phishing URL analyzer — fast, clean, and user-protective.**
+### About Me
 
-**🛡️ **Vision**: Help users test suspicious URLs safely through a secure and minimal web interface.**
-
-**👩‍🔧 **Role**: **Project Lead & Frontend Developer****
-
-- 💡 Defined the initial project scope and feature set
-- 🖌️ Designed intuitive, responsive interfaces from scratch using React.js and Tailwind CSS
-- 🔗 Integrated APIs and handled error, loading, and user feedback scenarios
-- 🔍 Worked with a security-oriented mindset to ensure safe and reliable user flows
-
-👨‍💻 *Co-built with [Pardhu Varma](https://github.com/PardhuSreeRushiVarma20060119) — backend development & security mastermind.*
+Cybersecurity Enthusiast and a developer engineering defensive architectures and user-safety applications. Leverages expertise in SOC operations, threat intelligence, and full-stack development to build resilient, secure-by-design systems. Focuses on Neuro-Semantic analysis for data governance and containerized threat investigation platforms.
 
 ---
 
-## 🎓 Student, But…
+### Experience
 
-Although I’m a student, I:
-- Work like a developer.
-- Think like a defender.
-- Lead like a teammate.
-- Learn like it’s oxygen.
+**Developer | NDRA-PII (Neuro-Semantic Distributed Risk Analysis)**
+*Dec 2025 – Present*
 
-💬 You’ll find me either:
-- Debugging CSS for responsiveness  
-- Studying log patterns to detect phishing  
-- Writing labs on SQLi, XSS, and more  
-- Or staying up late fixing the smallest UI misalignment — because **it matters!.**
+* **Architecting** a multi-agent system for automated PII detection and governance using a Neuro-Semantic approach beyond simple regex.
+* **Implementing** logic-based governance policies (NSRL) and semantic chunking to determine risk levels for detected entities.
+* **Tech Stack:** Python, SpaCy, NLP Pipelines, Semantic Modeling, DSL, PII Fusion & Entity Resolution.
 
----
+**Lead Developer | BookDynamix**
+*Mar 2025 – Present*
 
-## 🛠️ Tech & Security Stack
+* **Directing** full-lifecycle development of a bookstore market price analysis system with real-time analytics.
+* **Integrating** a Python-based ML service (Scikit-learn/Pandas) for intelligent pricing analysis with a strictly typed backend.
+* **Tech Stack:** React.js, TypeScript, Express.js, PostgreSQL (Drizzle ORM), Python ML.
 
-### 🔧 Development :
-- React.js (Vite)
-- Tailwind CSS
-- Axios, React Router
-- Git, GitHub
+**Project Lead & Frontend Developer | PhishVault**
+*May 2025 – Jul 2025*
 
-### 💻 Programming Languages : 
-- Python
-- Java
-- Javascript
-
-### 🔐 Blue Teaming :
-- Log Analysis (HTTP/DNS)
-- Splunk, Elastic, Sysmon, Zeek
-- TryHackMe & PortSwigger Labs
-- Threat Triage & SIEM concepts
-- MITRE ATT&CK mapping
+* **Spearheaded** the development of a containerized phishing investigation platform for reliable URL verdict classification.
+* **Orchestrated** the integration of Puppeteer for safe browsing simulations and centralized threat intelligence feeds.
+* **Tech Stack:** React.js, Node.js, MongoDB, Docker, Puppeteer, REST APIs.
 
 ---
 
-## 🧪 Recent Work
+### Technical Expertise
 
-### 📁 [PhishVault Frontend](https://github.com/Tejaswini4119/PhishVault/tree/main/phishvault-frontend)
-> Clean, modular, security-aware UI
-
-- ✅ Created the overall project structure and interface flow from scratch.
-- 🧠 Drove the frontend API integration plan and reusability strategy.
-- 👑 Demonstrated strong leadership through design alignment and team coordination.
-
----
-
-### 📚 [Cybersecurity-Blogs](https://github.com/Tejaswini4119/Cybersecurity-Blogs)
-> A collection of hands-on web security walkthroughs, featuring:
-
-- ✅ SQL Injection Labs (Solved & Explained)
-- 💡 Real-world exploit breakdowns
-- 🔍 Blue Team interpretations of offensive tactics
+| Domain | Skills & Tools |
+| :--- | :--- |
+| **Defensive Security** | SOC Operations, Phishing Defense, Incident Response, Threat Triage, CTI, VAPT |
+| **Analysis** | Malware Analysis & Reverse Engineering, Log Analysis (Splunk, Elastic, Sysmon, Zeek) |
+| **Development** | React.js, TypeScript, Python, DSL, PostgreSQL, Docker, Cloud Security |
+| **Methodologies** | MITRE ATT&CK, Neuro-Semantic Analysis, PII Fusion, Secure Design Principles |
 
 ---
 
-## 💬 About Me
+### Certifications
 
-- 🎓 Student of Cybersecurity
-- 🧠 Passionate about Cybersecurity (especially Blue Team, & Defense Focused)
-- ✨ Building interfaces with empathy, clarity, and defense in mind
-- 🛌 Sleep-deprived but **purpose-driven**
-
----
-
-## 📫 Connect with Me
-
-- 📬 [Linkedin](https://www.linkedin.com/in/kandukoori-tejaswini-765774289/)
-- 🤝 Open to collaboration in **frontend dev**, **blue team labs**, or **student-led cybersecurity projects**
+| Certification | Issuing Organization | Date |
+| :--- | :--- | :--- |
+| **Certified Phishing Prevention Specialist (CPPS)** | Hack & Fix Academy | Dec 2025 |
+| **IBM Certified Solution Architect - Cloud V1** | IBM | Oct 2025 |
+| **Foundation Level Threat Intelligence Analyst** | arcX | Jun 2025 |
+| **Project Management 101** | Simplilearn | Jun 2025 |
+| **Cybersecurity Fundamentals** | ISC2 Candidate | - |
 
 ---
 
-> “I may still be a student — but I build, think, and defend like a professional. Because passion doesn’t wait for a title.”
+### Education
+
+**Bachelor of Technology** | Malla Reddy University (2023 – 2027)
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/kandukoori-tejaswini-765774289/) | [GitHub](https://github.com/Tejaswini4119)
